@@ -12,13 +12,13 @@ body {
 }
 
 .circle{
-    height: 100px;
-    width: 100px;
+    height: 69px;
+    width:69px;
     border-radius: 100px;
     background-color: yellow;
     color: purple;
     text-align: center;
-     line-height: 100px;
+     line-height:69px;
     font-weight: bold;
     font-size: 30px;
     float: left;
