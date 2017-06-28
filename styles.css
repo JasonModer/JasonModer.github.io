@@ -1,31 +1,32 @@
 img {
     width: 300px;
 }
-body {
-    text-align: center;
-}
+
 body {
     text-align: center;
     font-family: 'Dosis', sans-serif;
     background-color: lightblue;
     color: red;
+    text-align: center;
 }
 
 .circle{
-    height: 69px;
-    width:69px;
+    height: 100px;
+    width:100px;
     border-radius: 100px;
     background-color: yellow;
     color: purple;
     text-align: center;
-     line-height:69px;
+     line-height:100px;
     font-weight: bold;
     font-size: 30px;
     float: left;
+    
    
 }
 .container {
     height: 150px;
    margin: 0 auto;
-   width: 500px;
+   width: 1000px;
+   text-align: center;
 }
