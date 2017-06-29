@@ -1,0 +1,16 @@
+button {
+    width:125px;
+    height:25px;
+}
+body {
+    background-color: yellow;
+    color:purple;
+    font-family:'Dosis', sans-serif;
+    text-align: left;
+    font-size: 30px;
+}
+img {
+    height:300px;
+    width:470px;
+    margin-top: 20px;
+}
