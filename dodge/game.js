@@ -14,7 +14,7 @@ function preload() {
 function setup() {
   isGameOver = false;
   createCanvas(256, 256);
-  player = createSprite(width / 2, height - (playerImage.height / 2), 0, 0);
+  player = createSprite(wid1th / 2, height - (playerImage.height / 2), 0, 0);
   player.addImage(playerImage);
   enemy = createSprite(width / 2, 0, 0, 0);
   enemy.addImage(enemyImage);
